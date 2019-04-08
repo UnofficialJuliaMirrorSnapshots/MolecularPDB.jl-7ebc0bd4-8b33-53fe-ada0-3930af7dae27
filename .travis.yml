@@ -1,0 +1,9 @@
+language: julia
+os:
+    - linux
+    - osx
+julia:
+    - release
+sudo: false
+notifications:
+    email: false
